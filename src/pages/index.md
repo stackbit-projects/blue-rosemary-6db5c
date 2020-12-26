@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Stackbit Fresh.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      one to three sentences, but can be changed as you prefer.hhh
   - section_id: about
     type: section_content
     title: About
